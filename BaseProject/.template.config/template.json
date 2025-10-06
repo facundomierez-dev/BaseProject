@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "facundomierez-dev",
+  "name": "BaseProject API Template",
+  "identity": "Facu.BaseProject.Template",
+  "shortName": "BaseProject-api",
+  "sourceName": "BaseProject",
+  "preferNameDirectory": true
+}
