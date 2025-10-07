@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Facundo\\Development\\SG\\BaseProject\\BaseProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C9A273A7-B074-46A8-8F09-DBF262F75B4C}|BaseProject.csproj|c:\\users\\facundo\\development\\sg\\baseproject\\baseproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9A273A7-B074-46A8-8F09-DBF262F75B4C}|BaseProject.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9A273A7-B074-46A8-8F09-DBF262F75B4C}|BaseProject.csproj|c:\\users\\facundo\\development\\sg\\baseproject\\baseproject\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9A273A7-B074-46A8-8F09-DBF262F75B4C}|BaseProject.csproj|solutionrelative:repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F9487EA-ADF1-4EB0-B543-BDA34140FF85}|1.Presentation\\Presentation.WebApi\\Presentation.WebApi.csproj|c:\\users\\facundo\\development\\sg\\baseproject\\baseproject\\1.presentation\\presentation.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F9487EA-ADF1-4EB0-B543-BDA34140FF85}|1.Presentation\\Presentation.WebApi\\Presentation.WebApi.csproj|solutionrelative:1.presentation\\presentation.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -127,27 +123,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Facundo\\Development\\SG\\BaseProject\\BaseProject\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\Facundo\\Development\\SG\\BaseProject\\BaseProject\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Facundo\\Development\\SG\\BaseProject\\BaseProject\\1.Presentation\\Presentation.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "1.Presentation\\Presentation.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Facundo\\Development\\SG\\BaseProject\\BaseProject\\1.Presentation\\Presentation.WebApi\\Program.cs",
+              "RelativeToolTip": "1.Presentation\\Presentation.WebApi\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T19:13:42.148Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Facundo\\Development\\SG\\BaseProject\\BaseProject\\Repository\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\Facundo\\Development\\SG\\BaseProject\\BaseProject\\Repository\\UserRepository.cs",
-              "RelativeToolTip": "Repository\\UserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T19:13:33.404Z",
+              "WhenOpened": "2025-10-07T12:19:29.058Z",
               "EditorCaption": ""
             }
           ]
